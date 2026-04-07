@@ -5,7 +5,7 @@
 ## About me
 
 <p>★ My name is João Camilo;</p>
-<p>★ I'm finishing a technical curse of technology of information;</p>
+<p>★ I'm finishing a Integrated Technical High School in Informatics;</p>
 <p>★ I'm a EAJ-UFRN student;</p>
 <p>★ I live in Natal/RN -> Brazil;</p>
 
