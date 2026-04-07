@@ -21,7 +21,7 @@
 
 ## Tools 
 
-- Cpp
+- C++
 - Linux
 - Git
 - Github
